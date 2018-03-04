@@ -1,0 +1,55 @@
+.menu-list{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.home-section{
+    float:left;
+    width: 10%;
+}
+.section{
+    margin-left: 10%;
+    float:left;
+}
+.photo{
+    padding-right: 5px;
+}
+.panel .panel-body
+{
+	background: beige;
+	margin: 0;
+	padding: 20px;
+}
+
+.task
+{
+	padding: 8px 0;
+	position: relative;
+	background: beige;
+	margin: 0 -20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.atResultsTable{	
+	width:50%;
+	border-collapse: collapse;
+}
+.atResultsTable  td{
+	border:1px solid;	
+	border-collapse: collapse;
+ 	padding: 5px;
+    text-align: center;	
+}
+.atResultsTable  th{
+	background-color:#B0C4DE;
+	border:1px solid;
+	border-collapse: collapse;
+	padding: 5px;
+    text-align: center;		
+}
+.atResultsTable tr:hover {
+	background-color: #B0C4DE;
+}
+.atResultsTable tr:nth-child() {
+	background-color: #f2f2f2;
+}
